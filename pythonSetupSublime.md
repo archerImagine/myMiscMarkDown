@@ -58,11 +58,52 @@ Here are few reference on this issue, which might be of interest.
 
 As already told there is problem with taking input in a python program in Sublime Text 2. We can solve this problem by installing **SublimeREPL**.
 
+As mentioned in [WikiPedia](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop), and I am Quoting here.  
 
-[how to run python code on SublimeREPL](http://stackoverflow.com/questions/19732006/how-to-run-python-code-on-sublimerepl)
+> A read-eval-print loop (REPL), also known as an interactive toplevel or language shell, is a simple, interactive computer programming environment that takes single user inputs (i.e. single expressions), evaluates them, and returns the result to the user; a program written in a REPL environment is executed piecewise. The term is most usually used to refer to programming interfaces similar to the classic Lisp interactive environment. Common examples include command line shells and similar environments for programming languages.
 
-[Python Auto Complte](https://sublime.wbond.net/packages/Python%20Auto-Complete) better than [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) because of inbuilt function expansion.
+So basically [SublimeREPL](https://github.com/wuub/SublimeREPL), provides that REPL. 
 
-[Sublime Text 2 tips for Python and web developers](http://opensourcehacker.com/2012/05/11/sublime-text-2-tips-for-python-and-web-developers/)
+You can Install [SublimeREPL](https://github.com/wuub/SublimeREPL) by using [Package Control](https://sublime.wbond.net/) whose instruction are already mentioned in my [blog](http://archerimagine.wordpress.com/2014/05/29/complete-guide-to-setup-sublime-text-2-as-a-best-markdown-editor/)
 
-sublimeJedi
+So once you have installed [SublimeREPL](https://github.com/wuub/SublimeREPL), you can invoke the **REPL** by invoking Command Palette with `ctrl + Shift + p` and type **SublimeREPL:Python**
+
+Now we have the required REPL, won't it be nice if we can execute our Python Script with the help of this REPL.
+
+The instruction to use this REPL is mentioned in the below link.
+* [how to run python code on SublimeREPL](http://stackoverflow.com/a/23722631)
+
+In short these are the steps to follow:- 
+
+* Create a new Build System file, `Tools > Build System > New Build System...`
+* The above step will open a file, just copy paste this code
+
+````
+{
+    "target": "run_existing_window_command", 
+    "id": "repl_python_run",
+    "file": "config/Python/Main.sublime-menu"
+}
+````
+* Once the above step is done, save the file by the name `SublimeREPL-python.sublime-build`
+* After this you can open any Python Script, and select `Tools > Build System > SublimeREPL-python`, and the press `Ctrl + B` which will run the file in the REPL environment.
+
+There is a issue though, once the each time you press `Ctrl + B` to run any Python File, a new REPL tab opens and the it become inactive. The solution to this problem is not known to me.
+
+### [Python Auto-Complete ](https://sublime.wbond.net/packages/Python%20Auto-Complete) ###
+
+One of the best feature of any IDE or Text Editor is AutoComplete Feature. Now we have a Lot of Auto Complete Plugins in Sublime Text. 
+
+The one that blew my mind was [Python Auto-Complete ](https://sublime.wbond.net/packages/Python%20Auto-Complete), the other competitors are .
+
+* [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+* [SublimeJEDI](https://github.com/srusskih/SublimeJEDI)
+
+Kindly chose the Auto Complete package based on you preference, since I am Staring out in the Python World, for me [Python Auto-Complete ](https://sublime.wbond.net/packages/Python%20Auto-Complete) was enough because it gives auto completion of inbuilt function and library. 
+
+## References ##
+* [Sublime Text 2 tips for Python and web developers](http://opensourcehacker.com/2012/05/11/sublime-text-2-tips-for-python-and-web-developers/)
+* [Setting up Sublime Text for Python development ](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
+
+
+
