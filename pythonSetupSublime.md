@@ -104,6 +104,7 @@ Kindly chose the Auto Complete package based on you preference, since I am Stari
 ## References ##
 * [Sublime Text 2 tips for Python and web developers](http://opensourcehacker.com/2012/05/11/sublime-text-2-tips-for-python-and-web-developers/)
 * [Setting up Sublime Text for Python development ](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
+* [Complete guide to setup Sublime Text 2 as a best MarkDown Editor ](http://archerimagine.wordpress.com/2014/05/29/complete-guide-to-setup-sublime-text-2-as-a-best-markdown-editor/)
 
 
 
