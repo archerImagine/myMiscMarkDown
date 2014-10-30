@@ -23,3 +23,14 @@ For competitive programming you need to practice, and to practice these websites
 * [A2 Online Judge](http://ahmed-aly.com/Categories.jsp): This is a good grouping of question from different source but falling under the same category, so repeated practice of the same topic will give a better understanding.
 * [Welcome To PKU JudgeOnline](http://poj.org/)
 
+## Tutorials and Help ##
+
+* [CodeChef | Data Structures and Algorithms](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
+
+
+## Legends of Competitive Programming ##
+
+* [Gennady Korotkevich](http://en.wikipedia.org/wiki/Gennady_Korotkevich)
+* [Tomek Czajka](http://community.topcoder.com/tc?module=MemberProfile&cr=144400)
+* [Petr Mitrichev](http://en.wikipedia.org/wiki/Petr_Mitrichev)
+
