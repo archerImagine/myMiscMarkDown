@@ -18,3 +18,4 @@ The **recipe** to become a great programmer is.
 * Work on Project with others, be good in some and be the worst in others.
 * Learn programming language of different paradigm.
 * UnderStand the Computer in **Computer Programming**.
+* UnderStand the Computer in **Computer Programming**.
