@@ -41,4 +41,21 @@ Actually there are 5 points, but the title suggests there are only 4. So kindly 
 
 ----
 
+## [As A Software Developer, How Can I Ensure I Remain Employable After Age 50?](http://www.forbes.com/sites/quora/2012/09/17/as-a-software-developer-how-can-i-ensure-i-remain-employable-after-age-50/) ##
 
+One of the biggest irony of a software engineer is about keeping his job, every other day someone raises as a threat to his job, even some technology created by the same guy can be a threat to his job.
+
+This blog basically explain how to be awesome software engineer. The main points discussed there are:-
+
+* Be an awesome engineer
+* Be an expert in something.
+* Be open to more junior positions and/or flat hierarchies.
+* Leverage your experience
+* Live in an area where there’s a programmer shortage instead of a programmer surplus.
+* Compound your experience.
+* Keep learning new things and experimenting with new technologies.
+* Remove graduation dates and older positions from your resume.
+
+---
+
+---
