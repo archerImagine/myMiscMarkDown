@@ -19,3 +19,26 @@ The **recipe** to become a great programmer is.
 * Learn programming language of different paradigm.
 * UnderStand the Computer in **Computer Programming**.
 
+---
+
+------
+
+## [4 Things I Wish I Would Have Known When I Started My Software Development Career](http://simpleprogrammer.com/2013/08/19/software-development-career/) ##
+
+Now this link is also sort of motivational as the last link, which just provides a blueprint for success as a software engineer.
+
+The main points explained by him are:- 
+
+* There is no “right way” in software development
+* Reading a book cover-to-cover is not the best way to learn
+* Learning particular technologies in-depth is a waste of time
+* Community is extremely important in your software development career
+* Always have a side project
+
+Actually there are 5 points, but the title suggests there are only 4. So kindly see the blog and verify that if this is applicable to you.
+
+----
+
+----
+
+
