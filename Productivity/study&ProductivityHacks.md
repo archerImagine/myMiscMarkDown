@@ -59,3 +59,56 @@ This blog basically explain how to be awesome software engineer. The main points
 ---
 
 ---
+
+## [Practice Multiple Skills at a Time Instead of Focusing on One for Greater Results](http://lifehacker.com/5882077/practice-multiple-skills-at-a-time-instead-of-focusing-on-one-for-greater-results) ##
+
+This basically links to this archived article of 
+* [Everything You Thought You Knew About Learning Is Wrong](http://archive.wired.com/geekdad/2012/01/everything-about-learning/)
+
+In this articles basically the author want to focus on multiple skills than just mastering one skill at a time.
+
+
+---
+
+---
+
+## [Jerry Seinfeld's Productivity Secret](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret) ##
+
+This is a great link, which help us in understanding how to avoid procrastination, and focus on getting things done, by just following a simple rule of create a habit and follow it everyday, and do not break the chain.
+
+There cannot be any much simpler way to achieve anything which you have ever wished for.
+
+You can also see this link which is related to the above topics.
+
+* [How Seinfeld's Productivity Secret Fixed My Procrastination Problem ](http://lifehacker.com/5886128/how-seinfelds-productivity-secret-fixed-my-procrastination-problem) 
+
+
+
+
+
+
+
+
+
+
+---
+
+---
+
+## [Matt Cutts: Try something new for 30 days | Talk Video | TED.com](http://www.ted.com/talks/matt_cutts_try_something_new_for_30_days) ##
+
+There are lot of principle which tells you do not break the chain, this link is also on the similar lines.
+
+>Is there something you've always meant to do, wanted to do, but just ... haven't? Matt Cutts suggests: Try it for 30 days. This short, lighthearted talk offers a neat way to think about setting and achieving goals.
+
+
+---
+
+---
+
+## [Derek Sivers: Keep your goals to yourself | Talk Video | TED.com](http://www.ted.com/talks/derek_sivers_keep_your_goals_to_yourself) ##
+
+This is also a Ted Talk which talk about personal improvements. 
+
+>After hitting on a brilliant new life plan, our first instinct is to tell someone, but Derek Sivers says it's better to keep goals secret. He presents research stretching as far back as the 1920s to show why people who talk about their ambitions may be less likely to achieve them. 
+
