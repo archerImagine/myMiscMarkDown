@@ -15,6 +15,7 @@ To get started with TopCoder SRM you might need some help in Setting up your PC,
     - [Getting Started | CodeChef](http://www.codechef.com/getting-started)
 * [HackerRank](https://www.hackerrank.com/)
 * [CodeForces](http://codeforces.com/)
+* [Programming Puzzles & Code Golf Stack Exchange ](http://codegolf.stackexchange.com/)
 
 ## Online Judges ##
 For competitive programming you need to practice, and to practice these websites help.
@@ -33,4 +34,14 @@ For competitive programming you need to practice, and to practice these websites
 * [Gennady Korotkevich](http://en.wikipedia.org/wiki/Gennady_Korotkevich)
 * [Tomek Czajka](http://community.topcoder.com/tc?module=MemberProfile&cr=144400)
 * [Petr Mitrichev](http://en.wikipedia.org/wiki/Petr_Mitrichev)
+
+## References ##
+
+* [Resources - Where can I find programming puzzles and challenges? - Programmers Stack Exchange](http://programmers.stackexchange.com/questions/756/where-can-i-find-programming-puzzles-and-challenges/764#764)
+
+### Quora ###
+* [What are the 10 algorithms one must know in order to solve most algorithm challenges/puzzles? ](http://www.quora.com/What-are-the-10-algorithms-one-must-know-in-order-to-solve-most-algorithm-challenges-puzzles)
+* [What was Anudeep Nekkanti's Competitive Programming strategy to become 35th in Global ranking, in just 6-7 months?](http://www.quora.com/What-was-Anudeep-Nekkantis-Competitive-Programming-strategy-to-become-35th-in-Global-ranking-in-just-6-7-months)
+
+
 
