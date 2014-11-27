@@ -8,4 +8,6 @@
 
 * [Tips & Downloads to assist you at Work & Home | Lifehacker India](http://www.lifehacker.co.in/)
 
+* [Google in Education](http://www.google.com/edu/tools-and-solutions/guide-for-technical-development/index.html)
+
 
