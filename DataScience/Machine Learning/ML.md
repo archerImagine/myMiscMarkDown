@@ -53,5 +53,11 @@ In the same post some other links are
     - [Lecture Notes](https://work.caltech.edu/telecourse.html)
 * [List of Machine Learning Books ](http://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
 * [Reddit Wiki - Machine Learning ](http://www.reddit.com/r/MachineLearning/wiki/index)
+* [Guide to Getting Started in Machine Learning ](http://abeautifulwww.com/2009/10/11/guide-to-getting-started-in-machine-learning/) - is almost same as the Meta Critic link given above with minor difference.
+* [Tom Mitchell from CMU ](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+* [Teach yourself Machine Learning the hard way !](http://darshanhegde.wordpress.com/2014/08/19/learn-machine-learning-the-hard-way/)
+*  [SML: Scalable Machine Learning by Alex Smola ](http://alex.smola.org/teaching/berkeley2012/)
+* [Introduction to Machine Learning by Geoffrey J. Gordon and Alex Smola](http://alex.smola.org/teaching/cmu2013-10-701x/)
+* [CS 194-16: Introduction to Data Science ](http://datascienc.es/resources/)
 
 
