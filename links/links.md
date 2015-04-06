@@ -6,8 +6,8 @@
 * [Open Source Developer Network & Collaborative Development | bettercodes.org](http://bettercodes.org/)
 * [10 Social Networks for Developers](http://www.awwwards.com/10-social-networks-for-developers.html)
 
-* [Tips & Downloads to assist you at Work & Home | Lifehacker India](http://www.lifehacker.co.in/)
+* [Tips & Downloads to assist you at Work & Home | Lifehacker India](http://www.lifehacker.co.in/)
 
-* [Google in Education](http://www.google.com/edu/tools-and-solutions/guide-for-technical-development/index.html)
+* [Google in Education](http://www.google.com/edu/tools-and-solutions/guide-for-technical-development/index.html)
 
-
+PycharmProjects

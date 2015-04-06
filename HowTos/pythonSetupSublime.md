@@ -101,10 +101,45 @@ The one that blew my mind was [Python Auto-Complete ](https://sublime.wbond.net/
 
 Kindly chose the Auto Complete package based on you preference, since I am Staring out in the Python World, for me [Python Auto-Complete ](https://sublime.wbond.net/packages/Python%20Auto-Complete) was enough because it gives auto completion of inbuilt function and library. 
 
+
+### [Pylinter](https://github.com/biermeester/Pylinter) ###
+
+**Pylinter** is a linter for python, which can be used with sublime text 2. Now before directly installing **Pylinter** through Package Control, You have to follow these steps irrespective of the OS on which you are running.
+
+#### Prerequisite ####
+
+1. For Mac OS X:-
+
+There is a issue in Mac OS X if **PIP** is not installed so you have to install **PIP** before PyLint.
+
+To Install **PIP** just execute this commands.
+
+````
+sudo easy_install pip
+````
+
+As mentioned in the **Pylinter** github page, it requires [PyLint](http://www.pylint.org/#install) to installed.
+
+You can visit this page for seeing the instruction to install PyLint on different OS.
+
+* [Install PyLint](http://www.pylint.org/#install)
+
+** For Mac OS X**
+
+The is a correction in installing **PyLint** in the command as mentioned in the install link above, you have to give this command.
+
+````
+sudo pip install pylint
+````
+
+
 ## References ##
 * [Sublime Text 2 tips for Python and web developers](http://opensourcehacker.com/2012/05/11/sublime-text-2-tips-for-python-and-web-developers/)
 * [Setting up Sublime Text for Python development ](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
 * [Complete guide to setup Sublime Text 2 as a best MarkDown Editor ](http://archerimagine.wordpress.com/2014/05/29/complete-guide-to-setup-sublime-text-2-as-a-best-markdown-editor/)
+* [Installing pip on Mac OS X](http://stackoverflow.com/questions/17271319/installing-pip-on-mac-os-x)
+* [PyLint - Install ](http://www.pylint.org/#install)
+* [PyLinter](https://github.com/biermeester/Pylinter)
 
 
 
