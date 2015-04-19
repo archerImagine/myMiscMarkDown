@@ -23,10 +23,14 @@ For competitive programming you need to practice, and to practice these websites
 * [Sphere Online Judge](http://www.spoj.com/problems/classical/sort=-6)
 * [A2 Online Judge](http://ahmed-aly.com/Categories.jsp): This is a good grouping of question from different source but falling under the same category, so repeated practice of the same topic will give a better understanding.
 * [Welcome To PKU JudgeOnline](http://poj.org/)
+* [Leet Code ](https://leetcode.com/)
 
 ## Tutorials and Help ##
 
 * [CodeChef | Data Structures and Algorithms](http://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
+* [A Gentle Introduction to Algorithm Complexity Analysis ](http://discrete.gr/complexity/)
+* [Discrete Maths](http://ocw.nctu.edu.tw/upload/classbfs121003182131040.pdf)
+* [Notes on Discrete Mathematics](http://cs-www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf)
 
 
 ## Legends of Competitive Programming ##
@@ -42,6 +46,12 @@ For competitive programming you need to practice, and to practice these websites
 ### Quora ###
 * [What are the 10 algorithms one must know in order to solve most algorithm challenges/puzzles? ](http://www.quora.com/What-are-the-10-algorithms-one-must-know-in-order-to-solve-most-algorithm-challenges-puzzles)
 * [What was Anudeep Nekkanti's Competitive Programming strategy to become 35th in Global ranking, in just 6-7 months?](http://www.quora.com/What-was-Anudeep-Nekkantis-Competitive-Programming-strategy-to-become-35th-in-Global-ranking-in-just-6-7-months)
+* [What is the best approach to become better at C++?](http://www.quora.com/What-is-the-best-approach-to-become-better-at-C++)
+* [Anudeep Nekkanti - Quora](http://www.quora.com/Anudeep-Nekkanti)
+
+### Books ###
+
+* [Programming Challenges: Steven S. Skiena](http://books.google.co.in/books?id=NN8J9xId7gkC&dq=Programming+Challenges&hl=en&sa=X&ei=weHHU_6aOoTIuAT6sYIg&ved=0CBwQ6AEwAA)
 
 
 

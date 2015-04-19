@@ -32,6 +32,9 @@ Data Scientist may or may not be aware of the implementation of the ML Algorithm
 1. ### [CS 109 | Data Science | Harvard ](http://cs109.github.io/2014/) ###
 2. ### [Edureka YouTube Playlist](https://www.youtube.com/user/edurekaIN/playlists) ###
 
+## Links For Learning and Article ##
+
+1. [Software engineer's guide to getting started with data science ](http://www.rcasts.com/2012/12/software-engineers-guide-to-getting.html)
 
 
 
