@@ -19,6 +19,7 @@ In the same post some other links are
 *  [SML: Scalable Machine Learning by Alex Smola ](http://alex.smola.org/teaching/berkeley2012/)
 * [Introduction to Machine Learning by Geoffrey J. Gordon and Alex Smola](http://alex.smola.org/teaching/cmu2013-10-701x/)
 * [CS 194-16: Introduction to Data Science ](http://datascienc.es/resources/)
+* [ Learning about Machine Learning ](http://pindancing.blogspot.in/2010/01/learning-about-machine-learniing.html)
 
 
 ## Links to Papers ##
