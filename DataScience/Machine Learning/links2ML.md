@@ -19,3 +19,9 @@ In the same post some other links are
 *  [SML: Scalable Machine Learning by Alex Smola ](http://alex.smola.org/teaching/berkeley2012/)
 * [Introduction to Machine Learning by Geoffrey J. Gordon and Alex Smola](http://alex.smola.org/teaching/cmu2013-10-701x/)
 * [CS 194-16: Introduction to Data Science ](http://datascienc.es/resources/)
+
+
+## Links to Papers ##
+
+* [Deep Learning | International Conference on Learning Representations](http://www.iclr.cc/doku.php)
+* [arXiv.org | Cornell ](http://arxiv.org/)
