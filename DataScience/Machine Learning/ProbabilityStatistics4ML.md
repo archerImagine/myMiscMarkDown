@@ -5,7 +5,8 @@ We all know that these are few prerequisite for Machine Learning.
 1. Mathematics
 2. Statistics
 3. Probability
-4. Programming
+4. Optimization
+5. Programming
 
 This post of mostly to understand and find resources for learning Statistics and Probability required for Machine Learning.
 
@@ -17,6 +18,8 @@ This book is helpful for machine learning because it emphasizes applications wit
 ## Advanced Level ##
 
 1. [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) by  **Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani**
+
+    1. [Video Lecture for above course ](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
 2. [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) by **Trevor Hastie, Robert Tibshirani, Jerome Friedman**
 

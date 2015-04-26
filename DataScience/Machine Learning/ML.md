@@ -24,7 +24,34 @@ The first Link was almost obvious, Link to Andrew Ng's Coursera or Standford Lin
 * [Lecture Notes and Material of Above ](http://cs229.stanford.edu/materials.html)
 * [Coursera ML Class](https://class.coursera.org/ml-007)
 
+## MOOCs for Machine Learning ##
 
+### Learning from Data ###
+
+* [CALTECH | Learning from Data | Yaser Abu-Mostafa ](https://work.caltech.edu/telecourse.html)
+* [Machine Learning Course - CS 156 | Learning from Data ](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
+
+### Machine Learning |  Carnegie Mellon University | Tom Mitchell###
+
+* [Machine Learning |  Carnegie Mellon University | Tom Mitchell](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+
+### SML: Scalable Machine Learning | UC Berkeley | Alex Smola ###
+
+* [SML: Scalable Machine Learning ](http://alex.smola.org/teaching/berkeley2012/)
+* [Introduction to Machine Learning ](http://alex.smola.org/teaching/cmu2013-10-701x/)
+* [Advanced Optimization and Randomized Methods](http://www.cs.cmu.edu/~suvrit/teach/aopt.html)
+
+### Advanced and Miscellaneous Links ###
+
+* [CS281 | Advanced Machine Learning | Harvard | Ryan Adams](http://www.seas.harvard.edu/courses/cs281/)
+* [CS4780 | Machine Learning | Cornell | Thorsten Joachims](http://machine-learning-course.joachims.org/)
+* [Christopher M. Bishop | Talks](http://research.microsoft.com/en-us/um/people/cmbishop/talks.htm)
+* [Non-Mathematical | Under Graduate Machine Learning | UBC Computer Science  | Nando de Freitas ](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all) 
+* [Non-Mathematical | Graduate Machine Learning | UBC Computer Science  | Nando de Freitas ](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all)
+    * [Slides | Lecture Notes ](http://www.cs.ubc.ca/~nando/teaching.html)
+* [6.034 | Artificial Intelligence | MIT OCW | Prof. Patrick Henry Winston ](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+
+# Machine Learning by the Books #
 
 Then came a post which is almost game changer for me, something which was tailor made for me, This is a road map to learn Machine learning from books. Learning from books is just like a breath of fresh air for me, though there are so many youtube videos available but books are some thing different.
 
@@ -41,9 +68,10 @@ This link offers 4 levels, the books suggested are as below:-
 
 These are some of the Prerequisite for understanding machine learning.
 
-* Mathematics.
-* Statistics.
+* [Mathematics.](Mathematics4ML.md)
+* [Statistics.](ProbabilityStatistics4ML.md)
 * Probability.
+* Optimization
 * Programming.
 
 So I will try to answer all these question separately.
