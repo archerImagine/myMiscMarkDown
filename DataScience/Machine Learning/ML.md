@@ -52,6 +52,9 @@ The first Link was almost obvious, Link to Andrew Ng's Coursera or Standford Lin
 * [Non-Mathematical | Graduate Machine Learning | UBC Computer Science  | Nando de Freitas ](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all)
     * [Slides | Lecture Notes ](http://www.cs.ubc.ca/~nando/teaching.html)
 * [6.034 | Artificial Intelligence | MIT OCW | Prof. Patrick Henry Winston ](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+* [Coursera | Neural Networks for Machine Learning | Geoff Hinton's ](https://www.coursera.org/course/neuralnets)
+* [YouTube | Neural networks class - Université de Sherbrooke | Hugo Larochelle's](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+* [Coursera | Standford | Daphne Koller's](https://www.coursera.org/course/pgm)
 
 # Machine Learning by the Books #
 
@@ -65,6 +68,14 @@ This link offers 4 levels, the books suggested are as below:-
 2. For Intermediate, [Machine Learning with R](http://www.amazon.com/gp/product/1782162143/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1782162143&linkCode=as2&tag=metacademy-20&linkId=A7H4IRYIG6O64SD4)
 3. Little Rigor, [Pattern Recognition and Machine Learning (Information Science and Statistics)](http://www.amazon.com/gp/product/0387310738/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0387310738&linkCode=as2&tag=metacademy-20&linkId=RBNXLMWNVGBWAHJ5)
 4. Master, [Probabilistic Graphical Models: Principles and Techniques (Adaptive Computation and Machine Learning series)](http://www.amazon.com/gp/product/0262013193/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262013193&linkCode=as2&tag=metacademy-20&linkId=7ASBQV6PFQBTBMNI)
+5. [Math Heavy | Pattern Recognition and Machine Learning | Bishop's](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)
+6. [Math Heavy | Bayesian Reasoning and Machine Learning | Barber's](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
+7. [Math Heavy | Machine Learning: a Probabilistic Perspective |  Kevin Patrick Murphy ](http://www.cs.ubc.ca/~murphyk/MLbook/)
+8. [Math Heavy | Information Theory, Inference, and Learning Algorithms | David MacKay](http://www.inference.phy.cam.ac.uk/itila/book.html)
+9. [Non Math Heavy | Machine Learning for Hackers | oreilly ](http://shop.oreilly.com/product/0636920018483.do)
+10. [Machine Learning in Action | Manning ](http://www.manning.com/pharrington/)
+11. [Probabilistic Programming and Bayesian Methods for Hackers](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb)
+12. [Building Machine Learning Systems with Python | PACKT](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
 
 ## Prerequisite For Machine Learning ##
 

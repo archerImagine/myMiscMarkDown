@@ -20,10 +20,13 @@ This book is helpful for machine learning because it emphasizes applications wit
 1. [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) by  **Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani**
 
     1. [Video Lecture for above course ](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+    2. [Statistical Learning ](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
 
 2. [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) by **Trevor Hastie, Robert Tibshirani, Jerome Friedman**
 
 3. [YouTube | Statistics 110: Probability | Harvard ](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+4. [Coursera | Data Analysis and Statistical Inference | Duke Uni](https://www.coursera.org/course/statistics)
+    1. Basics of Statistics.
 
 
 ## Related Question ##
