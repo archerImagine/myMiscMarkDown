@@ -27,6 +27,7 @@ This book is helpful for machine learning because it emphasizes applications wit
 3. [YouTube | Statistics 110: Probability | Harvard ](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 4. [Coursera | Data Analysis and Statistical Inference | Duke Uni](https://www.coursera.org/course/statistics)
     1. Basics of Statistics.
+5. [Opinionated Lessons in Statistics](https://www.youtube.com/user/opinionatedlessons/videos?live_view=500&sort=da&view=0&flow=list)
 
 
 ## Related Question ##
