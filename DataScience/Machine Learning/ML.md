@@ -55,6 +55,7 @@ The first Link was almost obvious, Link to Andrew Ng's Coursera or Standford Lin
 * [Coursera | Neural Networks for Machine Learning | Geoff Hinton's ](https://www.coursera.org/course/neuralnets)
 * [YouTube | Neural networks class - Université de Sherbrooke | Hugo Larochelle's](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 * [Coursera | Standford | Daphne Koller's](https://www.coursera.org/course/pgm)
+* [YouTube | Mathematical Monk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 
 # Machine Learning by the Books #
 
@@ -75,7 +76,6 @@ This link offers 4 levels, the books suggested are as below:-
 9. [Non Math Heavy | Machine Learning for Hackers | oreilly ](http://shop.oreilly.com/product/0636920018483.do)
 10. [Machine Learning in Action | Manning ](http://www.manning.com/pharrington/)
 11. [Probabilistic Programming and Bayesian Methods for Hackers](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb)
-12. [Building Machine Learning Systems with Python | PACKT](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
 
 ## Prerequisite For Machine Learning ##
 
@@ -85,7 +85,16 @@ These are some of the Prerequisite for understanding machine learning.
 * [Statistics.](ProbabilityStatistics4ML.md)
 * Probability.
 * Optimization
-* Programming.
+* [Programming.](Python4ML.md)
 
 So I will try to answer all these question separately.
+
+## Links to Papers ##
+
+* [Deep Learning | International Conference on Learning Representations](http://www.iclr.cc/doku.php)
+* [arXiv.org | Cornell ](http://arxiv.org/)
+* [Journal of Machine Learning Research ](http://jmlr.org/)
+* [Machine Learning | Springer ](http://www.springer.com/computer/ai/journal/10994)
+* [NIPS | Conference ](https://nips.cc/Conferences/current)
+* [ICML | Conference ](http://icml.cc/2015/)
 
