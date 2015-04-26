@@ -43,6 +43,8 @@ The first Link was almost obvious, Link to Andrew Ng's Coursera or Standford Lin
 
 ### Advanced and Miscellaneous Links ###
 
+* [Data Science | Harvard | Joe Blitzstein](http://cs109.github.io/2014/)
+    * [2013 Version ](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) 
 * [CS281 | Advanced Machine Learning | Harvard | Ryan Adams](http://www.seas.harvard.edu/courses/cs281/)
 * [CS4780 | Machine Learning | Cornell | Thorsten Joachims](http://machine-learning-course.joachims.org/)
 * [Christopher M. Bishop | Talks](http://research.microsoft.com/en-us/um/people/cmbishop/talks.htm)
